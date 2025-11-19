@@ -1,10 +1,10 @@
 # Covid 19 Project
-# Covid-19 Project
 
-## 🔍 About  
+
+## About  
 A simulation project modelling the spread and impact of COVID-19.
 
-## 📁 Repository Contents  
+##  Repository Contents  
 - `app.py` — Main application script.  
 - `assignment2.py` — Secondary simulation/analysis script.  
 - `helper.py` — Utility functions used across modules.  
@@ -16,20 +16,18 @@ A simulation project modelling the spread and impact of COVID-19.
 - `a2-covid-simulation.png` — Visual representation of simulation results.  
 - `__pycache__/` — Python cache directory (auto-generated).
 
-## 🎯 Key Features  
+##  Key Features  
 - Simulates COVID-19 spread across countries using real data as input.  
 - Outputs detailed time-series of simulated cases and summaries.  
 - Visualisation included to interpret simulation outcomes.  
 - Configurable via `sim_parameters.py` allowing exploration of different scenarios.
 
-## 🛠 Usage  
+##  Usage  
 1. Edit `sim_parameters.py` to set simulation scenarios (countries, time-span, parameters).  
 2. Run `app.py` to execute the simulation.  
 3. Inspect `a2-covid-simulated-timeseries.csv` and `a2-covid-summary-timeseries.csv` for results.  
 4. View `a2-covid-simulation.png` for a visual summary of the simulation run.
 
-## ✅ Contributions  
-Contributions, bug-reports or improvements are welcome. Please open an issue or submit a pull request.
 
-## 📄 License  
-This project is released under [insert applicable license here].  
+
+
